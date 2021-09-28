@@ -8,7 +8,7 @@ function Footer() {
         <Row>
           <Col settings="text-center">
             <span class="copyright">
-              Copyright &copy; {new Date().getFullYear()} Winson Quon
+              Copyright &copy; {new Date().getFullYear()} Stephanie Blanchard
             </span>
           </Col>
         </Row>

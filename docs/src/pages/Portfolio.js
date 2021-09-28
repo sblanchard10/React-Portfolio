@@ -86,7 +86,7 @@ function Portfolio() {
                   rel="noopener noreferrer"
                 >
                   <figure>
-                    <figcaption>Burger Logger</figcaption>
+                    <figcaption>Coding Quiz</figcaption>
                   </figure>
                 </a>
               </Col>

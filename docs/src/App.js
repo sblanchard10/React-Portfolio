@@ -3,9 +3,9 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import Header from "./components/Header";
 import Main from "./components/Main";
 import Footer from "./components/Footer";
-import Home from "./pages/Home";
+import Home from "./pages/home";
 import Portfolio from "./pages/Portfolio";
-import Contact from "./pages/Contact";
+import Contact from "./pages/contact";
 
 function App() {
   return (

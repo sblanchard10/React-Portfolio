@@ -34,10 +34,7 @@ function Contact() {
             </p>
             <hr />
             <p>
-              <Link
-                to="https://1drv.ms/w/s!Ap6ucqnftZjYf_1e80Y-j-Lrxqw?e=Y37sYn"
-                target="_blank"
-              >
+              <Link to="assets/Resume" target="_blank">
                 View my resume
               </Link>
             </p>
